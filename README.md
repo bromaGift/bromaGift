@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bromagift" alt="bromagift" /></a> </p>
 
-- 🔭 I’m currently working on [mently](https://mymently.com/)
-
-- 🌱 I’m currently learning **Product Management**
+- 🔭 Currently volunteering at herTechTrail
 
 - 👯 I’m looking to collaborate on **frontend projects and technical writing projects.**
 
